@@ -1,2 +1,2 @@
-# Human factors-sabra01
-static and dynamic risk map
+# Sabra01-Human Factors
+Project on static and dynamic risk map on covid19
